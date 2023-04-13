@@ -7,7 +7,7 @@ This code is a simple PySpark application that streams movie titles from a local
 * Python 3.x
 * PySpark
 * requests module
-* OMDb API key (imported from key.py file)
+* OMDb API key (imported from key.py file - change it to your own)
 
 ## How to Run
 
